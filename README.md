@@ -14,7 +14,7 @@ The main objectives of the project are:
 - `train.csv` — Training dataset.
 - `test.csv` — Testing dataset.
 - `data_description.txt` — Description of each feature in the dataset.
-- `Predicting_House_Prices_Report.pdf` — Complete project report documenting methodology, results, and conclusions.
+- `Predicting House Prices using Linear Regression,  Random Forest and XGBoost.pdf` — Complete project report documenting methodology, results, and conclusions.
 
 ## 📈 Algorithms Used
 - Linear Regression
